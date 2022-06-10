@@ -1,0 +1,17 @@
+MariaDB [uassbd]> /*
+   /*>  Navicat Premium Data Transfer
+   /*> 
+   /*>  Source Server         : Vagrant
+   /*>  Source Server Type    : MySQL
+   /*>  Source Server Version : 100703
+   /*>  Source Host           : dev-mbkm.usu.ac.id:3306
+   /*>  Source Schema         : task_manager
+   /*> 
+   /*>  Target Server Type    : MySQL
+   /*>  Target Server Version : 100703
+   /*>  File Encoding         : 65001
+   /*> 
+   /*>  Date: 10/06/2022 03:34:48
+   /*> */
+MariaDB [uassbd]> 
+MariaDB [uassbd]> SET
